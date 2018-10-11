@@ -1,0 +1,6 @@
+- name: 'Quick start'
+  user: 'untillpro'
+  repo: 'untill-air-docs-quick-start'
+- name: 'User guide'
+  user: 'untillpro'
+  repo: 'untill-air-docs-user-guide'
